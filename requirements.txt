@@ -1,0 +1,7 @@
+jupyter
+notebook
+jupyterlab
+jupyterlab-spreadsheet-editor
+jupyterlab code formatter
+jupyterlab_markup
+jupyterlab_myst
